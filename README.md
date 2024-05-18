@@ -1,0 +1,2 @@
+# RE2-Y8950
+ Functionally verified RE: Birth 2nd sound card. This project refers to RE2-YM2608 and RE2-YM3812. However, these two projects refer to PS98 and SPFM tower. Although I do not have RE1-Y8950, I still successfully designed it. It is worth noting that there is a bug in SPFM Player V2's support for Y8950. When playing ADPCM VGM music that requires page changes, ADPCM playback errors will occur, usually manifested as disordered drum sounds.
